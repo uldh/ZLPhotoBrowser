@@ -41,6 +41,8 @@ xcuserdata/
 *.dSYM
 *.sketch
 
+build_new_release.py
+
 # CocoaPods - Refactored to standalone file
 
 
@@ -67,9 +69,9 @@ iOSInjectionProject/
 
 ### Objective-C Patch ###
 
-
 Carthage/Build
 Carthage/Checkouts
 
-
 # End of https://www.gitignore.io/api/cocoapods,objective-c
+Sources/.DS_Store
+.DS_Store
